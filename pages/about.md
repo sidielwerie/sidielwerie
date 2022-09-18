@@ -13,15 +13,17 @@ Je suis étudiant en Génie Industriel et Informatique, actuellement en stage ch
 Après avoir terminé mon stage, j'ai hâte de commencer ma carrière en gestion de produits.
  
 
-
+# Parcours :
+<br />
 <div class="row">
 
 {% include about/timeline.html title="" %}
 
 </div>
 
+# Compétences :
 <div class="row">
-{% include about/skills.html title="Compétences :" source=site.data.programming-skills %}
+{% include about/skills.html title="" source=site.data.programming-skills %}
 
 
 </div>
