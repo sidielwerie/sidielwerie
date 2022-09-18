@@ -21,7 +21,7 @@ Après avoir terminé mon stage, j'ai hâte de commencer ma carrière en gestion
 </div>
 
 <div class="row">
-{% include about/skills.html title="" source=site.data.programming-skills %}
+{% include about/skills.html title="Compétences :" source=site.data.programming-skills %}
 
 
 </div>
