@@ -14,7 +14,6 @@ Après avoir terminé mon stage, j'ai hâte de commencer ma carrière en gestion
  
 
 # Parcours :
-<br />
 <div class="row">
 
 {% include about/timeline.html title="" %}
